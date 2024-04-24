@@ -20,5 +20,5 @@ a = cursor.fetchall()
 
 for i in a:
     print(i)
-
+print('salom')
 connection.close()
